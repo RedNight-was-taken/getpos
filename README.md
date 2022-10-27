@@ -9,6 +9,7 @@ Get the location of your pointer using getpos.
 - install getpos using the installer
 - run getpos at dist/getpos/getpos.exe
 
-### -> Installing Getpos from source code
+### -> Using Getpos from source code
 - download source code
-- run getpos at dist/getpos/getpos.exe
+- run cmd at directory
+- execute py getpos.py
