@@ -7,7 +7,7 @@ Get the location of your pointer using getpos.
 > You may need python to be installed.
 
 ### -> Using the installer
-- get to the [releases](https://google.fr)
+- get to the [releases](https://github.com/RedNight-was-taken/getpos/releases/latest)
 - install getpos using the installer
 - run getpos at dist/getpos/getpos.exe
 
