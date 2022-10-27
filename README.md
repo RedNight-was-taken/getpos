@@ -1,5 +1,6 @@
 # getpos
 Get the location of your pointer using getpos.
+![getpos gui showcase](https://zupimages.net/up/22/43/o1uv.png)
 
 ## Installing Getpos
 > You may need python to be installed.
